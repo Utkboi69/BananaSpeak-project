@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@700&family=Edu+VIC+WA+NT+Beginner:wght@500&family=Fira+Sans:ital,wght@1,300;1,500&family=Merriweather:ital,wght@1,700;1,900&family=Montserrat:ital,wght@0,400;0,700;1,400&family=Poppins:wght@200&family=Ubuntu:ital,wght@1,500&display=swap');
+
+#heading {
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    background-color: #f59e0b;
+    margin: 0%;
+    text-align: center;
+    padding-bottom: 1rem;
+    text-decoration: underline;
+}
+
+#txt-input {
+    display: block;
+    border-radius: 1rem;
+    margin: auto;
+    font-size: x-large;
+}
+
+#btn-translate {
+    font-size: larger;
+    padding: auto;
+    background-color: yellow;
+    display: block;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 1px;
+    border-radius: 1rem;
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 3rem;
+
+
+}
+
+#res {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: x-large;
+    margin: auto;
+}
+
+#output {
+
+    border-radius: 1rem;
+    margin: auto;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    background-color: aliceblue;
+    font-size: x-large;
+    width: 80%;
+    padding-bottom: 6rem;
+
+}
+
+.highlight {
+    background: #f59e0b;
+}
+
+
+
+.footer {
+    font-size: larger;
+    display: inline;
+    padding-right: 1.5rem;
+    padding-top: 5rem;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    margin: auto;
+}
+
+.wholeFooter {
+    font-size: larger;
+    margin-top: 9rem;
+    background-color: yellow;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    display: block;
+    border-radius: 1rem;
+    text-align: center;
+}
